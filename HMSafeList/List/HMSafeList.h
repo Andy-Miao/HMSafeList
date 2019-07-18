@@ -60,6 +60,6 @@
 @end
 
 // 增加去重操作
-@interface CLSafeSet : HMSafeList
+@interface HMSafeSet : HMSafeList
 
 @end
