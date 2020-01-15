@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		00CEAC7123CEFF6000E6E033 /* HMMutableArray.m in Sources */ = {isa = PBXBuildFile; fileRef = 00CEAC7023CEFF6000E6E033 /* HMMutableArray.m */; };
 		AD41475C22E07A5700523754 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = AD41475B22E07A5700523754 /* AppDelegate.m */; };
 		AD41475F22E07A5700523754 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AD41475E22E07A5700523754 /* ViewController.m */; };
 		AD41476222E07A5700523754 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD41476022E07A5700523754 /* Main.storyboard */; };
@@ -17,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		00CEAC6F23CEFF6000E6E033 /* HMMutableArray.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HMMutableArray.h; sourceTree = "<group>"; };
+		00CEAC7023CEFF6000E6E033 /* HMMutableArray.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HMMutableArray.m; sourceTree = "<group>"; };
 		AD41475722E07A5700523754 /* HMSafeList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HMSafeList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD41475A22E07A5700523754 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		AD41475B22E07A5700523754 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -80,6 +83,8 @@
 			children = (
 				AD41477122E07A8800523754 /* HMSafeList.h */,
 				AD41477222E07A8800523754 /* HMSafeList.m */,
+				00CEAC6F23CEFF6000E6E033 /* HMMutableArray.h */,
+				00CEAC7023CEFF6000E6E033 /* HMMutableArray.m */,
 			);
 			path = List;
 			sourceTree = "<group>";
@@ -156,6 +161,7 @@
 			files = (
 				AD41475F22E07A5700523754 /* ViewController.m in Sources */,
 				AD41476A22E07A5900523754 /* main.m in Sources */,
+				00CEAC7123CEFF6000E6E033 /* HMMutableArray.m in Sources */,
 				AD41475C22E07A5700523754 /* AppDelegate.m in Sources */,
 				AD41477322E07A8800523754 /* HMSafeList.m in Sources */,
 			);
