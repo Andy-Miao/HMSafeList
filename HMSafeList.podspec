@@ -6,8 +6,8 @@ Pod::Spec.new do |s|
   s.summary      = "Custom and Apple-Native Derived Safe Array"
   s.homepage     = "https://github.com/Andy-Miao/HMSafeList"
   s.license      = "MIT"
-  s.author             = { "Andy-Miao" => "randy_hm@qq.com" }
-  s.social_media_url   = "hhttps://twitter.com/Andy-Miao"
+  s.author             = { "Andy-Miao" => "andy_hm@qq.com" }
+  s.social_media_url   = "https://twitter.com/Andy-Miao"
   s.source       = { :git => "https://github.com/Andy-Miao/HMSafeList.git", :tag => s.version }
   s.source_files  = "List"
   s.requires_arc = true
